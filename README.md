@@ -6,7 +6,7 @@ BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 You can use [Project Gutenberg](https://www.gutenberg.org) to find books you'd like to analyze.
 
-Import your books into txt files in a **_books_** directory inside the **_root_** of the project folder.
+Import your books into txt files in a `_books_` directory inside the `_root_` of the project folder.
 
 ### Run:
 
